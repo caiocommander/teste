@@ -1,0 +1,14 @@
+body{
+
+	width: 700px;	
+}
+h1 {
+	font: Roboto;
+	font-size: 40pt;
+	text-align: center;
+	color: pink;
+
+	margin-top: 40%;
+	margin-left: 40%;
+	margin-bottom:20px;
+}
